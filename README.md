@@ -25,7 +25,7 @@ location of the elements, you integrate the design by yourself, at your discreti
 In the json file you will find data about tweets (`db/tweets.json`). 
 At the top of the layout should be a search for tweets, the search is performed 
 in accordance with the selected type: `by tweet text`, `by hashtag`, `by user name`
-+ one parameter (preferably numeric), chosen by you. If we perform the search,
+and by one parameter (preferably numeric), chosen by you. If we perform the search,
 the found date should be _highlighted_ in text of tweets. It is also required to implement
 filtering by language (each tweet has this parameter), a list of languages is 
 displayed based on the languages available in tweets (there may be others 
