@@ -1,0 +1,11 @@
+{
+  "name": "frontendProgrammingTest",
+  "version": "1.0.0",
+  "scripts": {
+    "db-server": "json-server --watch db/tweets.json --port 3004"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "json-server": "^0.15.0"
+  }
+}
